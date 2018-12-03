@@ -45,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
         // TODO: Steps 6, 7, & 9 - Set a listener on the bottom button:
         mBottomButton.setOnClickListener(new View.OnClickListener(){
             @Override
